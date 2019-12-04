@@ -13,7 +13,12 @@ to develop:
 npm run watch:dev
 ```
 
-to build a version to prod in the dist folder
+to build a version to dev in the dist folder
 ````npm
 npm run build
+````
+
+to build a version to prod in the dist-zip folder
+````npm
+npm run build-zip
 ````
