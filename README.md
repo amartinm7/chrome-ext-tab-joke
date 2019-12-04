@@ -26,3 +26,9 @@ to build a version to prod in the dist-zip folder
 ````npm
 npm run build-zip
 ````
+
+kill the process
+`````bash
+lsof -i :9090
+sudo kill -9 pid
+`````
