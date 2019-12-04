@@ -5,6 +5,10 @@
 ### ` Chrome-ext tab joke`
 Simple example to create a chrome extension: https://www.sitepoint.com/build-vue-chrome-extension/
 
+Open chrome and browse to the `chrome://extensions/` url.  
+From here enable the developer mode toggle and upload the dist folder.
+And this moment you can play with the extension open new tabs.
+
 We are using vue-web-extension as vue template/module for the vue-cli command.
 https://github.com/Kocal/vue-web-extension
 
